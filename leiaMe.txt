@@ -1,0 +1,8 @@
+enquanto no flex box e uni-direcional
+no Grid bi-Direcional, tranforma colunas e linhas ao mesmo tempo
+
+flex-box e grid um complementa o outro. 
+
+1fr 1fr = pega esta pagina e divide em fração
+A unidadefr
+Nas propriedades de grade podem ser utilizadas quaisquer unidades de medida. Para nos ajudar a criar layouts flexíveis usando o grid, foi criada uma unidade nova. A unidade fr representação do espaço disponível no container do grid. A definição de espaços de criação com tamanhos iguais e próximos a três de acordo com o espaço disponível 
